@@ -15,7 +15,7 @@
 
 An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy, hand-drawn style. I built the side project for learning purposes. The app is not responsive. I mainly focused on the functionalities since I already have plenty of projects that are responsive.
 
-## Screenshots
+## 📸 Screenshots
 
 ![Main screen](.github/screenshots/screenshot.png 'Main screen')
 
@@ -44,7 +44,7 @@ Here's what you can do with Cool Drawer App:
 
 - **Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
 
-## Live demo
+## 🎥 Live demo
 
 Check out the live demo of app [here](https://cool-drawer-app.vercel.app/).
 
