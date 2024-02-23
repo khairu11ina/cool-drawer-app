@@ -2,14 +2,14 @@
 
 ## 📃 Table of Contents
 
-- [Description](#description)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Live demo](#live-demo)
-- [Launch](#launch)
-- [Misc](#misc)
-  - [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Description](#-description)
+- [Screenshots](#-screenshots)
+- [Technologies](#-technologies)
+- [Features](#-features)
+- [Live demo](#-live-demo)
+- [Launch](#-launch)
+- [Misc](#-misc)
+  - [Keyboard Shortcuts](#-keyboard-shortcuts)
 
 ## 📝 Description
 
