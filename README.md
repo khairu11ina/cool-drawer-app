@@ -9,7 +9,6 @@
 - [Launch](#launch)
 - [Misc](#misc)
   - [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [Process](#process)
 
 ## 📝 Description
 
