@@ -5,8 +5,8 @@
 - [Description](#description)
 - [Technologies](#technologies)
 - [Features](#features)
-- [Live Demo](#live-demo)
-- [Running the Project](#running-the-project)
+- [Live demo](#live-demo)
+- [Launch](#launch)
 - [Misc](#misc)
   - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Process](#process)
@@ -40,11 +40,11 @@ Here's what you can do with Cool Drawer App:
 
 - **Pan**: Hold the Space bar and drag or use the middle mouse button to move around the whiteboard canvas.
 
-## Live Demo
+## Live demo
 
-Check out the live demo of app [here]().
+Check out the live demo of app [here](https://cool-drawer-app.vercel.app/).
 
-## 🚀 Running the Project
+## 🚀 Launch
 
 To run the project in your local environment, follow these steps:
 
@@ -53,9 +53,9 @@ To run the project in your local environment, follow these steps:
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
-## 📦 Misc
+## 👾 Misc
 
-### 🎯 Keyboard Shortcuts
+### 🎹 Keyboard Shortcuts
 
 Speed up your work with these shortcuts:
 
