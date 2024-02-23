@@ -19,7 +19,7 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 
 ![Main screen](.github/screenshots/screenshot.png 'Main screen')
 
-## 📦 Technologies
+## 🛠️ Technologies
 
 - `Vite`
 - `React`
